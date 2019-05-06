@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+	precomposeunicode = true
+[remote "attandanceAndroid"]
+	url = https://github.com/rajeshpalgithub/attandanceAndroid.git
+	fetch = +refs/heads/*:refs/remotes/attandanceAndroid/*
